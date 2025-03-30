@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hi, I’m Bareket Kruger
+title: Welcome
 ---
 
 I'm passionate about neuroscience, data analysis, and scientific discovery.  
