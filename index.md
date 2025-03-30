@@ -7,6 +7,9 @@ I'm passionate about neuroscience, data analysis, and scientific discovery.
 Currently doing my MSc at the Weizmann Institute.
 
 ---
+## 📁 CV
+
+[📄 Download my CV](Bareket%20CV.pdf)
 
 ## 🚀 Projects
 
