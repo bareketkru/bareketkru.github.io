@@ -3,8 +3,7 @@ layout: default
 title: Welcome
 ---
 
-I'm passionate about neuroscience, data analysis, and scientific discovery.  
-Currently doing my MSc at the Weizmann Institute.
+ MSc student at the Weizmann Institute
 
 ---
 ## 📁 CV
